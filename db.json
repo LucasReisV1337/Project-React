@@ -2,58 +2,25 @@
   "projects": [
     {
       "name": "teste",
-      "budget": "1234",
+      "budget": "123",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
       "id": 1
     },
     {
-      "name": "testes",
-      "budget": "12344",
+      "name": "Ga",
+      "budget": "123",
       "category": {
-        "id": "4",
-        "name": "Planejamento"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
       "id": 2
-    },
-    {
-      "name": "teste3",
-      "budget": "2000",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "name": "Sem - uso",
-      "budget": "6522",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
-    },
-    {
-      "name": "Lucas Reis Vasconcelos",
-      "budget": "1452",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 5
     }
   ],
   "categories": [

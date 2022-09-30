@@ -7,3 +7,9 @@
     justify-content: space-between;
     margin-bottom: 2em;
 }
+
+.project_container_anything{
+    color: #Ffbb33;
+    padding: 2em;
+    background-color: #222;
+}
