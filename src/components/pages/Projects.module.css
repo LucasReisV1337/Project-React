@@ -1,15 +1,15 @@
-.project_container{
-    padding: 2em;
+.project_container {
+  padding: 2em;
 }
 
-.title_container{
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 2em;
+.title_container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2em;
 }
 
-.project_container_anything{
-    color: #Ffbb33;
-    padding: 2em;
-    background-color: #222;
+.project_container_anything {
+  color: #ffbb33;
+  padding: 2em;
+  background-color: #222;
 }

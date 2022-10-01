@@ -11,16 +11,15 @@
   align-items: center;
 }
 
-.item{
-    margin-right: 1em;
-    font-weight: 600;
-
+.item {
+  margin-right: 1em;
+  font-weight: 600;
 }
 
 .item a {
-    color: #fff;
-    text-decoration: none;
+  color: #fff;
+  text-decoration: none;
 }
 .item a:hover {
-    color: #FFBB33;
+  color: #ffbb33;
 }
